@@ -23,8 +23,8 @@ banner = """
 //  ██╔══██╗██╔══╝||██║╚██╗██║╚════██║██╔═██╗|██║|||██║||╚██╔╝||
 //  ██████╔╝███████╗██║|╚████║███████║██║||██╗╚██████╔╝|||██║|||
 //  ╚═════╝|╚══════╝╚═╝||╚═══╝╚══════╝╚═╝||╚═╝|╚═════╝||||╚═╝|||
-//  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  
-DAWN AUTO BOT EDITED BENSKOY
+//  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+_________________________EDITED BY BENSKOY________________________  
 ==================================================================
 """
 print(banner)
@@ -282,7 +282,7 @@ async def process_account(account, proxy_cycle, active_proxies):
                 f"💰 *Points Earned:* {points}\n\n"
                 f"📢 *Message:* {status_message}\n\n"
                 f"🛠️ *Proxy Used:* {proxy}"  # Menambahkan proxy yang digunakan
-                "\n\n🤖 *Bot Edit by Benskoy*"  # Tautan yang dapat diklik
+                "\n\n🤖 *Bot edit by Benskoy*"  # Tautan yang dapat diklik
             )
             await queue_telegram_message(message)
             all_failed = False
@@ -296,7 +296,7 @@ async def process_account(account, proxy_cycle, active_proxies):
             f"👤 *Account:* {email}\n\n"
             "❌ *Status:* Keep Alive Failed for All Proxies\n\n"
             "⚙️ *Action Required:* Please check proxy list or account status.\n\n"
-            "\n\n🤖 *Bot Edit by Benskoy*"  
+            "\n\n🤖 *Bot edit by Benskoy*</a>*"  
         )
         await queue_telegram_message(message)
 
