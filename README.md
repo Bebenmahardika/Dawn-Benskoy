@@ -9,14 +9,25 @@
 5. Selesain task buat dapet tambahan 15k point
 6. Stay connect biar tetep dapetin DAWN point.
 
+==================================================================  
+//  ██████╗|███████╗███╗|||██╗███████╗██╗||██╗|██████╗|██╗|||██╗
+//  ██╔══██╗██╔════╝████╗||██║██╔════╝██║|██╔╝██╔═══██╗╚██╗|██╔╝
+//  ██████╔╝█████╗||██╔██╗|██║███████╗█████╔╝|██║|||██║|╚████╔╝|
+//  ██╔══██╗██╔══╝||██║╚██╗██║╚════██║██╔═██╗|██║|||██║||╚██╔╝||
+//  ██████╔╝███████╗██║|╚████║███████║██║||██╗╚██████╔╝|||██║|||
+//  ╚═════╝|╚══════╝╚═╝||╚═══╝╚══════╝╚═╝||╚═╝|╚═════╝||||╚═╝|||
+//  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+_________________________EDITED BY BENSKOY________________________  
+==================================================================
+
 ## How To Use
 1.  Clone Repo
     ```
-    git clone https://github.com/Bebenmahardika/Dawn-Benskoy.git
+    git clone https://github.com/bebenmahardika/Dawn-auto.git
     ```
 2.  Move to Directory
     ```
-    cd Dawn-Benskoy
+    cd Dawn-auto
     ```
 3.  Install Requirements
     ```
@@ -33,4 +44,3 @@
 # How To Find Your Bearer Token
 
 Right Click on Dawn Validator Extension and Choose Inspect, Choose Network Tab, and find BEARER TOKEN there
-
