@@ -1,8 +1,8 @@
 {
-  "telegram_bot_token": "",
-  "telegram_chat_id": "",
-  "use_telegram": false,
-  "use_proxy": true,
+  "telegram_bot_token": "", #masukin token yang dari bot father
+  "telegram_chat_id": "", #Tutor ada di github buat dapetin chat id
+  "use_telegram": false, #kalau gak mau pake bot telegram di palse ae boy
+  "use_proxy": true, 
   "poll_interval": 120,
   "accounts": [
     {
