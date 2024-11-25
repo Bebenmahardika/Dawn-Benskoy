@@ -36,4 +36,4 @@ echo "GASS URUTIN AJA SESUAI NOMOR INPUT SATU2 TUTOR ADA DI GITHUB"
 loading_animation 7  # Load animation for 5 seconds
 
 # Run the Python script
-python3 benskoy.py
+python3 Benskoy.py
